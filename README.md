@@ -17,7 +17,6 @@
    1. [Assignments](#assignments)
    1. [Final Project](#final-project)
 1. [Evaluation](#evaluation)
-1. [Make School Course Policies](#make-school-course-policies)
 
 ## Course Description
 
