@@ -7,5 +7,6 @@
 - [Day 08: DApps](Lessons/DApps.md)
 - [Day 09: More Ways to Write Contracts](Lessons/Vyper.md)
 - [Day 10: Testnets & Deployment](Lessons/Deploy.md)
+- [SpeedRunEthereum Challenges](Lessons/SpeedRunEthereum.md)
 - [MetaMask Tips and Tricks](Lessons/MetaMask.md)
 - [Final Project: MakeCoin](Project/MakeCoin.md)
