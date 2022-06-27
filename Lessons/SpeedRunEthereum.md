@@ -1,4 +1,4 @@
-1. # Speed Run Ethereum
+# Speed Run Ethereum
 
 ## Learning Objectives
 
