@@ -10,15 +10,13 @@
 **IMPORTANT**: *MetaMask must be installed and functioning before you start! This warmup verifies if you have MetaMask installed, and tests if you've comlpeted your tutorials --- specifically, if you remember how to ineract with a web3 app using MetaMask.*
 
 1. Connect Wallet and choose MetaMask
-2. Complete sign up procedure
-3. Register as a builder by signing the transaction in MetaMask
-4. Click your address at the top right
-5. Right click the generated profile image and save it
-6. Click 'Update Socials',  add your GitHub username, and click Save
-7. Use MetaMask to complete the transaction
-8. Copy the URL to your Profile and paste it in the Progress Tracker *(bookmarked in #acs-3240 channel)*
-9. Change your Zoom profile pic to the saved image to indicate that you are done with the activity!i
-10. If you finish early, fill in your row's empty columns in the Progress Tracker --- I will be getting a head start on grading this week! 
+1. Complete sign up procedure
+1. Register as a builder by signing the transaction in MetaMask
+1. Click your address at the top right
+1. Click 'Update Socials',  add your GitHub username, and click Save
+1. Use MetaMask to complete the transaction
+1. Copy the URL to your Profile and paste it in the Progress Tracker *(bookmarked in #acs-3240 channel)*
+1. If you finish early, fill in your row's empty columns in the Progress Tracker --- I will be getting a head start on grading this week! 
 
 ## [30m] Activity: Complete Challenge 0 in Breakouts
 
