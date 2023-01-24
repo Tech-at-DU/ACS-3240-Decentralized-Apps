@@ -99,7 +99,7 @@ Instructor will demonstrate and walk through the code in the [blockchain-walkthr
 
 1. Complete the [Blockchain in Python](https://101blockchains.com/build-a-blockchain-in-python/) tutorial with your breakout group.
 1. Add all the code you wrote to a Git repository, then push it to GitHub.
-1. Upload your completed tutorial code to [Gradescope](https://make.sc/bew2.4-gradescope).
+1. Upload your completed tutorial code to [Gradescope](https://gradescope.com).
 
 ## [**30m**] 💻 Review: Build a Blockchain in Python
 
@@ -112,9 +112,7 @@ Instructor will ask students demonstrate code for the following, providing answe
 
 ## 🌃 After Class
 
-- Next class period, you'll have a quiz on protocols. The [study guide](../Resources/StudyGuide.md) will be updated by Friday.
-- Be sure to turn in today's assignment on [Gradescope](https://make.sc/bew2.4-gradescope) by 11:59pm on Day 4.
-- Presentations graded on [Gradescope]. Nice work folks!
+- Be sure to turn in today's assignment on [Gradescope](https://gradescope.com) by 11:59pm on Day 4.
 - Did you miss the last class? Request a make-up assignment from the instructor.
 
 <!-- > -->
