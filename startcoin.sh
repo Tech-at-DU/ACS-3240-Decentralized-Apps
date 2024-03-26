@@ -40,7 +40,7 @@ if [ -d "$PROJECT_NAME" ]; then
     echo -e "[ERROR] A directory with the name "$PROJECT_NAME" already exists." && exit 1
 else
     // Clone repo, create venv, install requirements, and initialize pre-commit hooks.
-    git clone --quiet git@github.com:Make-School-Labs/makecoin $PROJECT_NAME && cd $PROJECT_NAME
+    git clone --quiet git@github.com:Tech-at-DU/makecoin $PROJECT_NAME && cd $PROJECT_NAME
     python3 -m venv venv && source venv/bin/activate
     pip install -r requirements.txt
     pre-commit install
