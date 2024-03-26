@@ -1,8 +1,8 @@
 <p align="center">
-   <img src="trading.png" height="320" alt="BEW 2.4 @ Make School">
+   <img src="trading.png" height="320" alt="ACS 3240">
 </p>
 
-# BEW 2.4 - Decentralized Apps & Distributed Protocols
+# ACS 3240: Decentralized Apps & Distributed Protocols
 
 <!-- omit in toc -->
 ## Table of Contents
@@ -26,12 +26,12 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 
 ## Prerequisites
 
-- [BEW 1.3](https://make.sc/bew1.3)
-- [CS 1.3](https://make.sc/cs1.3)
+- [ACS 2230](https://github.com/Tech-at-DU/ACS-2230-Server-Side-Architectures)
+- [ACS 2130](https://github.com/Tech-at-DU/ACS-2130-Core-Data-Structures)
 
 ## Course Specifics
 
-**Course Delivery**: online | 7 weeks | 14 sessions<br>
+**Course Delivery**: online | 7 weeks<br>
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
 
 ## Learning Outcomes
@@ -49,34 +49,31 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 <!-- omit in toc -->
 ### Class Sessions
 
-**Course Dates:** Tuesday, June 1 through Thursday, July 15, 2021  _(7 weeks)_<br>
-**Class Times:** Tuesday  &amp; Thursday from 2:30pm to 4:00pm PST _(14 class sessions)_
+**Course Dates:** Thursday, March 21 through Tuesday, May 7, 2024<br>
+**Class Times:** Tuesday  &amp; Thursday from 10:00am to 12:00pm PST
 
-| Class | Date                | Topics                                                                                                                                                                 |
-| :---: | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `01`  | _Tuesday, June 1_   | [Day 01: Intro to Protocols](Lessons/IntroProtocols.md)                                                                                                                |
-| `02`  | _Thursday, June 3_  | [Day 02: Fantastic Protocols & Where to Find Them](https://docs.google.com/presentation/d/18IZ_OiLdfYFOP9TgsaLwdYJ40i8dolxLFQ5Ip2CKO1I/edit?usp=sharing) |
-| `03`  | _Tuesday, June 8_   | [Day 03: Blockchain](Lessons/Blockchain.md)                                                                                                                            |
-| `04`  | _Thursday, June 10_ | [Day 04: Introducing CryptoZombies](https://cryptozombies.io)                                                                                                          |
-| `05`  | _Tuesday, June 15_  | TBD                                                                                                                                                                    |
-| `06`  | _Thursday, June 17_ | [Day 06: Ethereum](Lessons/Ethereum.md)                                                                                                                                |
-| `07`  | _Tuesday, June 22_  | [Day 07: Smart Contracts](Lessons/SmartContracts.md)                                                                                                                   |
-| `08`  | _Thursday, June 24_ | [Day 08: DApps](Lessons/DApps.md)                                                                                                                                      |
-| `09`  | _Tuesday, June 29_  | [Make a New NFT: Backend](https://grain.co/share/recording/96121eac-f405-4c29-af73-b2af46677889/5AMUm4hymrQvE9CJdqXJcW2epHCicX13csUolSie)                              |
-| `10`  | _Thursday, July 1_  | [Make a New NFT: Frontend](https://grain.co/share/recording/8b11bd13-addb-4502-9f3d-f64ab0418ace/FiGOpQ2OLbl3Pc0qzUs99eO5FjCIjrL6ecfP29L5) + [MakeCoin Kickoff](Project/MakeCoin.md)                                                                                                     |
-| `11`  | _Tuesday, July 6_   | Storing Custom Metadata + Images on IPFS                                                                                                                               |
-| `12`  | _Thursday, July 8_  | Freezing + Shipping Distributed Apps                                                                                                                                   |
-| `13`  | _Tuesday, July 13_  | Selling Your NFT                                                                                                                                                       |
-| `14`  | _Thursday, July 15_ | Final Presentations                                                                                                                                                    |
+| Class | Topics                                                                                                                                                                               |
+|:-----:| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  `01` | [Day 01: Intro to Protocols](Lessons/IntroProtocols.md)                                                                                                                              |
+|  `02` | [Day 02: Fantastic Protocols & Where to Find Them](https://docs.google.com/presentation/d/18IZ_OiLdfYFOP9TgsaLwdYJ40i8dolxLFQ5Ip2CKO1I/edit?usp=sharing)                             |
+|  `03` | [Day 03: Blockchain](Lessons/Blockchain.md)                                                                                                                                          |
+|  `04` | [Day 04: Introducing CryptoZombies](https://cryptozombies.io)                                                                                                                        |
+|  `05` | TBD                                                                                                                                                                                  |
+|  `06` | [Day 06: Ethereum](Lessons/Ethereum.md)                                                                                                                                              |
+|  `07` | [Day 07: Smart Contracts](Lessons/SmartContracts.md)                                                                                                                                 |
+|  `08` | [Day 08: DApps](Lessons/DApps.md)                                                                                                                                                    |
+|  `09` | [Make a New NFT: Backend](https://grain.co/share/recording/96121eac-f405-4c29-af73-b2af46677889/5AMUm4hymrQvE9CJdqXJcW2epHCicX13csUolSie)                                            |
+|  `10` | [Make a New NFT: Frontend](https://grain.co/share/recording/8b11bd13-addb-4502-9f3d-f64ab0418ace/FiGOpQ2OLbl3Pc0qzUs99eO5FjCIjrL6ecfP29L5) + [MakeCoin Kickoff](Project/MakeCoin.md) |
+|  `11` | Storing Custom Metadata + Images on IPFS                                                                                                                                             |
+|  `12` | Freezing + Shipping Distributed Apps                                                                                                                                                 |
+|  `13` | Selling Your NFT                                                                                                                                                                     |
+|  `14` | Final Presentations                                                                                                                                                                  |
 
 ## Class Assignments
 
 ### Tutorials
 
 - **[CryptoZombies](https://cryptozombies.io)** is an interactive school that teaches you all things technical about blockchains! Learn to make smart contracts in Solidity by making your own crypto-collectibles game.
-  - You must choose the Solidity version of the tutorial. **DO NOT CHOOSE LIBRA**!
-  - **Complete** the **Solidity Path** and the **Hands on Path**.
-  - **_Plasma Path is optional._**
 - **[Ethernaut](https://ethernaut.openzeppelin.com/)**: Complete at least 16 out of 26 t6torials. You choose!
 
 ### Assignments

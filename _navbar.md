@@ -1,0 +1,2 @@
+- [Syllabus & Schedule](./README.md)
+- [Final Project: MakeCoin](Project/MakeCoin.md)

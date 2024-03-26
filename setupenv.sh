@@ -1,7 +1,7 @@
 #!/bin/bash
 # ------------------------------------------------------------------------------------------ #
 #                                          setupenv.sh                                       #
-#                  Sets up / validates the environment for BEW 2.4 projects                  #
+#                  Sets up / validates the environment for ACS 3240 projects                  #
 # ------------------------------------------------------------------------------------------ #
 
 function log() {
