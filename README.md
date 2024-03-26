@@ -91,7 +91,7 @@ Your Gradescope login is your Dominican University email, and your password can 
 
 ### Final Project
 
-[MakeCoin Project]: Design and mint your very own [ERC-20](https://docs.openzeppelin.com/contracts/3.x/er20)), [ERC-721](https://docs.openzeppelin.com/contracts/3.x/erc721), [ERC-777](https://docs.openzeppelin.com/contracts/3.x/erc777), or [ERC-1155](https://docs.openzeppelin.com/contracts/3.x/erc1155) assets, then use them in a custom, full-stack distributed application!
+[MakeCoin Project]: Design and mint your very own [ERC-20](https://docs.openzeppelin.com/contracts/3.x/er20), [ERC-721](https://docs.openzeppelin.com/contracts/3.x/erc721), [ERC-777](https://docs.openzeppelin.com/contracts/3.x/erc777), or [ERC-1155](https://docs.openzeppelin.com/contracts/3.x/erc1155) assets, then use them in a custom, full-stack distributed application!
 
 ### Final Presentation
 
