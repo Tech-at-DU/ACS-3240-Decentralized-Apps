@@ -1,29 +1,43 @@
-# MakeCoin Project ([rubric](https://www.makeschool.com/rubrics/UnVicmljLTE5Mg==))
+# MakeCoin Project
 
 _Design and mint your very own [ERC-20](https://docs.openzeppelin.com/contracts/3.x/er20)), [ERC-721](https://docs.openzeppelin.com/contracts/3.x/erc721), [ERC-777](https://docs.openzeppelin.com/contracts/3.x/erc777), or [ERC-1155](https://docs.openzeppelin.com/contracts/3.x/erc1155) assets, then use them in a custom, full-stack distributed application!_
 
 <!-- omit in toc -->
-## Table of Contents {docsify-ignore}
+## Table of Contents
 
-1. [1️⃣ Overview](#1%EF%B8%8F%E2%83%A3-overview)
-   1. [Guidelines](#guidelines)
-1. [2️⃣ Getting Started](#2%EF%B8%8F%E2%83%A3-getting-started)
-1. [3️⃣ Deliverables](#3%EF%B8%8F%E2%83%A3-deliverables)
-   1. [Code](#code)
-   1. [Demo](#demo)
-1. [4️⃣ Evaluation](#4%EF%B8%8F%E2%83%A3-evaluation)
-1. [5️⃣ Where to Get Help](#5%EF%B8%8F%E2%83%A3-where-to-get-help)
-1. [6️⃣ Resources](#6%EF%B8%8F%E2%83%A3-resources)
-   1. [🔗 Example DApps](#%F0%9F%94%97-example-dapps)
-   1. [🤑 Get ETH: Faucets](#%F0%9F%A4%91-get-eth%3A-faucets)
-1. [7️⃣ Credits](#7%EF%B8%8F%E2%83%A3-credits)
+1. [1️⃣ Overview](#%31%EF%B8%8F%E2%83%A3%2D%6F%76%65%72%76%69%65%77)
+   1. [Protocol](#%70%72%6F%74%6F%63%6F%6C)
+1. [2️⃣ Getting Started](#%32%EF%B8%8F%E2%83%A3%2D%67%65%74%74%69%6E%67%2D%73%74%61%72%74%65%64)
+1. [3️⃣ Deliverables](#%33%EF%B8%8F%E2%83%A3%2D%64%65%6C%69%76%65%72%61%62%6C%65%73)
+   1. [Code](#%63%6F%64%65)
+   1. [Demo](#%64%65%6D%6F)
+1. [4️⃣ Evaluation](#%34%EF%B8%8F%E2%83%A3%2D%65%76%61%6C%75%61%74%69%6F%6E)
+1. [5️⃣ Where to Get Help](#%35%EF%B8%8F%E2%83%A3%2D%77%68%65%72%65%2D%74%6F%2D%67%65%74%2D%68%65%6C%70)
+1. [6️⃣ Credits](#%36%EF%B8%8F%E2%83%A3%2D%63%72%65%64%69%74%73)
+
 
 ## 1️⃣ Overview
 
-### Guidelines
+### Protocol
 
-- You can work **solo** or **in pairs** with another student.
-- You may partner with students in other sections of this course.
+#### Rules
+
+- You can work **solo** or **in pairs** with another student enrolled in this course in this term &emdash; or any term!
+- Partner **must be an undergraduate** in the ACS program; **alumni mentorship is encouraged** -- reach out on LinkedIn!
+- Each individual must have at **least 15 commits** in a public GitHub repository.
+- The **timespan** between the **first and final commit** must be **at least 10 days**.
+
+Submissions found violating these guidelines will receive a one-time warning from the instructor upon review.
+
+Projects in violation of these rules will receive a 0. Resubmissions that correct issues (as discussed in a 1 on 1 review with the instructor) will be accepted, and required to earn credit for the course.
+
+#### Reasons
+
+> **_""Weeks of programming can save hours of planning!"_** - popular 80s coding meme
+
+1. Improve ability to break down a large project down into smaller units of work
+1. Practice adding and improving features over time
+1. Demonstrate a pattern of professional usage of the Git protocol as well; display fluency with common use and practices
 
 ## 2️⃣ Getting Started
 
@@ -79,31 +93,13 @@ On the last day of the course, each team is required to present a **pre-recorded
 > [!DANGER]
 > Must score `>36` points on this project to pass the course.
 
-Both your project and presentation will be scored according to the MakeCoin [rubric] located in your Student Dashboard.
-
-[rubric]: https://www.makeschool.com/rubrics/UnVicmljLTE5Mg==
-[Gradescope]: https://make.sc/bew2.4-gradescope
+Both your project and presentation will be scored according to the MakeCoin [rubric]().
+[Gradescope]: http://gradescope.com
 
 ## 5️⃣ Where to Get Help
 
-- [**Ethereum Stack Exchange**](https://ethereum.stackexchange.com/): _Ethereum Stack Exchange is a question and answer site for users of Ethereum, the decentralized application platform and smart contract enabled blockchain._
+See the bottom of the [Course Syllabus](../README.md#resources--practice) for more examples, resources,and ideas for your project.
 
-## 6️⃣ Resources
-
-### 🔗 Example DApps
-
-- [**CryptoPunks**](https://www.larvalabs.com/cryptopunks): _10,000 unique collectible characters with proof of ownership stored on the Ethereum blockchain. The project that inspired the modern CryptoArt movement._
-- [**CryptoKitties**](https://www.cryptokitties.co/): _CryptoKitties is a game centered around breed-able, collectible, and oh-so-adorable creatures we call CryptoKitties! Each cat is one-of-a-kind and 100% owned by you; it cannot be replicated, taken away, or destroyed._
-
-### 🤑 Get ETH: Faucets
-
-| 🌐 Network    | 🚰 Faucet                           | Limit           |
-| ------------ | ---------------------------------- | --------------- |
-| **MetaMask** | <https://faucet.metamask.io>       | 5 requests/hour |
-| **Rinkeby**  | <https://faucet.rinkeby.io>        | 1 request/day   |
-| **Goerli**   | <https://faucet.goerli.mudit.blog> | 1 request/day   |
-
-
-## 7️⃣ Credits
+## 6️⃣ Credits
 
 - [**ETH Practice Developer Projects**](https://ethhole.com/challenge): Source for Voting, Santa's List, Advertisement Auction, and Cheese Touch project ideas.

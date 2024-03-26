@@ -56,7 +56,7 @@ print("hello world!")
 
 <!-- > -->
 
-## [**10m**] 🌴 BREAK {docsify-ignore} {docsify-ignore}
+## [**10m**] 🌴 BREAK
 
 <!-- > -->
 

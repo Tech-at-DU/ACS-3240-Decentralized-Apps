@@ -7,7 +7,7 @@
 - [[**00m**] 🏆 Objectives](#00m-%f0%9f%8f%86-objectives)
 - [[**60m**] ✓ CryptoZombies Review](#60m-%e2%9c%93-cryptozombies-review)
 - [[**30m**] ✓ CryptoZombies Discussion](#30m-%e2%9c%93-cryptozombies-discussion)
-- [[**10m**] 🌴 BREAK {docsify-ignore}](#10m-%f0%9f%8c%b4-break-docsify-ignore)
+- [[**10m**] 🌴 BREAK](#10m-%f0%9f%8c%b4-break-docsify-ignore)
 - [[**25m**] 💻 Activity: Debate Prep](#25m-%f0%9f%92%bb-activity-debate-prep)
 - [[**25m**] 💻 Activity: Debate](#25m-%f0%9f%92%bb-activity-debate)
 - [[**05m**] TT: The Importance of Ethereum (Closing Thoughts)](#05m-tt-the-importance-of-ethereum-closing-thoughts)
@@ -36,7 +36,7 @@ The instructor will share the answers to the questions and provide an opportunit
 
 <!-- > -->
 
-## [**10m**] 🌴 BREAK {docsify-ignore}
+## [**10m**] 🌴 BREAK
 
 <!-- > -->
 

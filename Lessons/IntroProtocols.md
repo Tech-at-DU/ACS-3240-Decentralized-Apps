@@ -3,17 +3,19 @@
 <!-- > -->
 
 <!-- omit in toc -->
-## ⏱ Agenda {docsify-ignore}
+## ⏱ Agenda
 
-- [[**05m**] 🏆 Objectives](#05m-%f0%9f%8f%86-objectives)
-- [[**20m**] 👋 Welcome to Class](#20m-%f0%9f%91%8b-welcome-to-class)
-- [[**30m**] 📖 Overview: Network Protocols](#30m-%f0%9f%93%96-overview-network-protocols)
-- [[**10m**] 🌴 BREAK](#10m-%f0%9f%8c%b4-break-docsify-ignore)
-- [[**05m**] 💻 Prep: Simulator Activities on Code.org](#05m-%f0%9f%92%bb-prep-simulator-activities-on-codeorg)
-- [[**30m**] 💻 Internet Simulator: Broadcast](#30m-%f0%9f%92%bb-internet-simulator-broadcast)
-- [[**35m**] 💻 Internet Simulator: Routers](#35m-%f0%9f%92%bb-internet-simulator-routers)
-- [[**35m**] 💻 Internet Simulator: Packets](#35m-%f0%9f%92%bb-internet-simulator-packets)
-- [📚 Resources & Credits](#%f0%9f%93%9a-resources--credits)
+1. [\[**05m**\] 🏆 Objectives](#%5B%2A%2A%30%35%6D%2A%2A%5D%2D%F0%9F%8F%86%2D%6F%62%6A%65%63%74%69%76%65%73)
+1. [\[**20m**\] 👋 Welcome to Class](#%5B%2A%2A%32%30%6D%2A%2A%5D%2D%F0%9F%91%8B%2D%77%65%6C%63%6F%6D%65%2D%74%6F%2D%63%6C%61%73%73)
+1. [\[**30m**\] 📖 Overview: Network Protocols](#%5B%2A%2A%33%30%6D%2A%2A%5D%2D%F0%9F%93%96%2D%6F%76%65%72%76%69%65%77%3A%2D%6E%65%74%77%6F%72%6B%2D%70%72%6F%74%6F%63%6F%6C%73)
+   1. [Real Life Examples](#%72%65%61%6C%2D%6C%69%66%65%2D%65%78%61%6D%70%6C%65%73)
+   1. [Four Categories](#%66%6F%75%72%2D%63%61%74%65%67%6F%72%69%65%73)
+1. [\[**05m**\] 💻 Prep: Simulator Activities on Code.org](#%5B%2A%2A%30%35%6D%2A%2A%5D%2D%F0%9F%92%BB%2D%70%72%65%70%3A%2D%73%69%6D%75%6C%61%74%6F%72%2D%61%63%74%69%76%69%74%69%65%73%2D%6F%6E%2D%63%6F%64%65%2E%6F%72%67)
+1. [\[**20m**\] 💻 Internet Simulator: Broadcast](#%5B%2A%2A%32%30%6D%2A%2A%5D%2D%F0%9F%92%BB%2D%69%6E%74%65%72%6E%65%74%2D%73%69%6D%75%6C%61%74%6F%72%3A%2D%62%72%6F%61%64%63%61%73%74)
+1. [\[**25m**\] 💻 Internet Simulator: Routers](#%5B%2A%2A%32%35%6D%2A%2A%5D%2D%F0%9F%92%BB%2D%69%6E%74%65%72%6E%65%74%2D%73%69%6D%75%6C%61%74%6F%72%3A%2D%72%6F%75%74%65%72%73)
+1. [\[**25m**\] 💻 Internet Simulator: Packets](#%5B%2A%2A%32%35%6D%2A%2A%5D%2D%F0%9F%92%BB%2D%69%6E%74%65%72%6E%65%74%2D%73%69%6D%75%6C%61%74%6F%72%3A%2D%70%61%63%6B%65%74%73)
+1. [After Class](#%61%66%74%65%72%2D%63%6C%61%73%73)
+1. [📚 Resources \& Credits](#%F0%9F%93%9A%2D%72%65%73%6F%75%72%63%65%73%2D%26%2D%63%72%65%64%69%74%73)
 
 <!-- > -->
 
@@ -28,7 +30,7 @@
 
 ## [**20m**] 👋 Welcome to Class
 
-Instructor will walk through the [syllabus](https://make.sc/bew2.4) and answer questions about the course.
+Instructor will walk through the [syllabus](https://bit.ly/acs3240) and answer questions about the course.
 
 Students, remember to join the course Slack channel, `#bew2-4-dapps`!
 
@@ -98,20 +100,15 @@ Contain commands for specific applications.
 
 <!-- > -->
 
-## [**10m**] 🌴 BREAK {docsify-ignore}
-
-<!-- > -->
-
 ## [**05m**] 💻 Prep: Simulator Activities on Code.org
 
 1. **Students**: Join [Code.org Section](https://studio.code.org/join/RZFRVG).
 1. **Make sure you complete the activities!** What you learn through your experiments with the Internet Simulator will be utilized throughout this course. Make sure you complete the reflection questions when asked.
 1. This activity earns you participation credit in the course. The instructor will check your progress on the Code.org dashboard and randomly visit your breakout rooms to verify your participation.
-1. Questions from each module's check for understanding may appear on [Quiz 1: Protocols](../Resources/StudyGuide.md).
 
 <!-- > -->
 
-## [**30m**] 💻 Internet Simulator: Broadcast
+## [**20m**] 💻 Internet Simulator: Broadcast
 
 In groups of 5 to 6, complete the [**The Need for Addressing**](https://studio.code.org/s/csp1-2018/stage/9/puzzle/1) module.
 
@@ -121,7 +118,11 @@ Make sure you also grab a copy of the [**Game Board**](https://docs.google.com/d
 
 <!-- > -->
 
-## [**35m**] 💻 Internet Simulator: Routers
+# [**10m**] 🌴 BREAK
+
+<!-- > -->
+
+## [**25m**] 💻 Internet Simulator: Routers
 
  In groups of 3 to 4, complete the [**Routers and Redundancy**](https://studio.code.org/s/csp1-2018/stage/10/puzzle/1) module.
 
@@ -129,7 +130,7 @@ When you reach the activity, use this [**Activity Guide**](https://docs.google.c
 
 <!-- > -->
 
-## [**35m**] 💻 Internet Simulator: Packets
+## [**25m**] 💻 Internet Simulator: Packets
 
 In groups of 2 to 4, complete the **[Packets and Making a Reliable Internet](https://studio.code.org/s/csp1-2018/stage/11/puzzle/1)** module.
 
@@ -137,6 +138,13 @@ When you reach the activity, use this [**Activity Guide**](https://docs.google.c
 
 <!-- > -->
 
+## After Class
+
+Students, complete any remaining Internet Sinumator activities we began in class for homework.
+
+Additionally,students should plan to complete https://cryptozombies.io/en/lesson/1 (all 15 pages) by the due date listed on Gradescope. It's a good idea to have it complete by the end  of  Week 3.
+
+<!-- > -->
 ## 📚 Resources & Credits
 
 - [**TechTerms**: Protocol Definition](https://techterms.com/definition/protocol)

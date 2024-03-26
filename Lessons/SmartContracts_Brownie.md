@@ -193,7 +193,7 @@ Check out this quick video for an example of the console's functionality:
 
 <iframe width="680" height="382" src="https://www.youtube.com/embed/NYBJwGqa0-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## [**10m**] 🌴 BREAK {docsify-ignore}
+## [**10m**] 🌴 BREAK
 
 <!-- > -->
 

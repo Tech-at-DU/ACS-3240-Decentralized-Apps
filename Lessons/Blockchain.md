@@ -89,7 +89,7 @@ Instructor will demonstrate and walk through the code in the [blockchain-walkthr
 
 
 
-## [**15m**] 🌴 BREAK {docsify-ignore}
+## [**15m**] 🌴 BREAK
 
 <!-- > -->
 
