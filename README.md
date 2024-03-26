@@ -69,7 +69,7 @@ Class | Topics
 On the following days this term, our class will **NOT be meeting online** on Zoom:
 
 1. `Tuesday, April 02, 2024`: Class Holiday _(to sync with April 01 campus holiday)_
-2. `Tuesday, April 22, 2024`: Lab Day for [MakeCoin Project]
+2. `Tuesday, April 23, 2024`: Lab Day for [MakeCoin Project]
 
 ## Evaluation
 
