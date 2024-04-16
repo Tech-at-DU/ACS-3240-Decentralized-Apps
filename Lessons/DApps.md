@@ -39,7 +39,7 @@
 
 ## [**10m**] ☀️ Warm Up: Make Sure Environment is Set Up
 
-In breakout rooms, double check that both you and your partner can successfully run `brownie compile` and `brownie run token` commands in the starter project from [last class](SmartContracts.md).
+In breakout rooms, double check that both you and your partner can successfully run truffle commands.
 
 ## [**20m**]  💻 Activity: Smart Contracts vs DApps
 
