@@ -94,17 +94,7 @@ When people and exchanges discuss ETH prices, they're talking about mainnet ETH.
 
 ## [**20m**] 💻 Activity: Get Gas Money
 
-This [Ether faucet](https://faucet.rinkeby.io) is running on the Rinkeby network. To prevent malicious actors from exhausting all available funds or accumulating enough Ether to mount long running spam attacks, requests are tied to common 3rd party social network accounts. Anyone having a Twitter or Facebook account may request funds within the permitted limits.
-
-### Instructions
-
-- First, copy your Ethereum address from MetaMask.
-- To request funds via **Twitter**:
-  - Make a [tweet](https://twitter.com/intent/tweet?text=Requesting%20faucet%20funds%20into%200x0000000000000000000000000000000000000000%20on%20the%20%23Rinkeby%20%23Ethereum%20test%20network.) with your MetaMask Ethereum address pasted into the contents (surrounding text doesn't matter).
-  - Copy-paste the tweet URL into the input box at the top and press `Give Me Ether`.
-- To request funds via **Facebook**:
-  - Publish a new **public** post with your MetaMask Ethereum address embedded into the content (surrounding text doesn't matter).
-  - Copy-paste the post URL into the input box at the top and press `Give Me Ether`.
+Try this ether faucet on QuikNode: <https://faucet.quicknode.com/ethereum>
 
 <!-- > -->
 
